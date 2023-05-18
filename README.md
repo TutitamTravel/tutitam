@@ -1,7 +1,7 @@
 <div align='center'>
   <br>
   <h1>Тут и Там</h1>
-  <img src="./app_icon.png" width="250">
+  <img src="./app_icon.png" width="125">
   <br>
   <b>Открывайте контент, делитесь с друзьями, путешествуйте вместе!</b>
 </div>
